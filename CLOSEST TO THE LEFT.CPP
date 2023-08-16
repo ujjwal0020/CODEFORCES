@@ -3,7 +3,6 @@
 using namespace std;
 int movr(int n,int a[],int target)
 {
-
     int lo=0;
     int hi=n-1;
     int val=-1;
